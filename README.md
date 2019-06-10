@@ -1,4 +1,4 @@
-# Encrypt-decryptor Board
+# Encryption Board
 Assembly language programming using embedded processor based system to encrypt and decrypt messages. 
 
 - Used MDE 8051 Trainer board, further learned assembly syntax.
